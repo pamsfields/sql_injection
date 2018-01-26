@@ -1,0 +1,15 @@
+I started with that was suggested
+  "whatever' or '1'='1" for the password
+and then followed by
+  't%' and 'e%' and 'sre00243@#2' and 'k%' for the password.
+
+  I did notice that if you got either part correctly, and error message came up saying
+  one was incorrect. I also noticed that the % turned into a wildcard, and could Login
+  without a username if I couldn't think of one.
+
+When trying these, I noticed that it didn't matter what I put in the username field.
+I left it blank and went with different variation of
+' or password like 'ki% and such, I could still login with different users.
+
+According to the output, I think it's because due to that it adds or condition,
+that it is able to pass the user verification process.
